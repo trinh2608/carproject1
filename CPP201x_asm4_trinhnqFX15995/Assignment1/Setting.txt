@@ -1,0 +1,7 @@
+3trinh1;t@ccc.vvv;00000001;2 2 
+5 5 5 (GMT-12:00);Vietnamese;
+0 0 0 0trinh2;t@ccc.vvv;00000002;3 3 
+0 0 0 (GMT-12:00);Vietnamese;
+3 3 3 3trinh3;t@ggg.ddd;00000003;3 3 
+0 0 0 (GMT-12:00);Vietnamese;
+4 5 5 4

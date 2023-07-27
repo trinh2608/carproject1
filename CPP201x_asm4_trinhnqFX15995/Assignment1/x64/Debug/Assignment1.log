@@ -1,0 +1,10 @@
+﻿  BST.cpp
+  Car.cpp
+  Display.cpp
+  General.cpp
+  main.cpp
+C:\Users\HP Trang\Desktop\CPP201x_asm4_trinhnqFX15995\Assignment1\main.cpp(520,27): warning C4101: 'e': unreferenced local variable
+  Setting.cpp
+  Sound.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\HP Trang\Desktop\CPP201x_asm4_trinhnqFX15995\x64\Debug\Assignment1.exe
